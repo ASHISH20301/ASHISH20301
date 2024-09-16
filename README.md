@@ -15,21 +15,15 @@ Experienced Software Engineer with over 2 years specializing in **Python** and *
 
 ---
 
-## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-- **Programming Languages**: Python
-- **Frameworks**: Django
-- **Databases**: MySQL, MongoDB (NoSQL)
-- **Tools**: GitHub, GitLab, Postman
-- **Concepts**: Data Structures, OOP, RESTful APIs, Backend Development
+## 🛠️ Languages and Tools
+<p align="center">
+  <div align="center">
+    <br></br>
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb,git,postman,linux"/>
+    <br></br>
+    <img src="https://skillicons.dev/icons?i=github,gitlab,aws"/>
+  </div>
+</p>
 
 ---
 
@@ -78,9 +72,3 @@ Experienced Software Engineer with over 2 years specializing in **Python** and *
 - **Higher Education in 12**, KV No.2, Chandigarh (Apr '17 — Apr '18)
 
 ---
-
-## 📝 Let's Connect!
-
-Feel free to reach out if you have any questions or want to collaborate on exciting projects. I'm always open to new opportunities and challenges!
-
-[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle) <!-- Replace with your actual Twitter handle -->
