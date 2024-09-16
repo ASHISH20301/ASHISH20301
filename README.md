@@ -19,9 +19,8 @@ Experienced Software Engineer with over 2 years specializing in **Python** and *
 <p align="center">
   <div align="center">
     <br></br>
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb,git,postman,linux"/>
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb,git,postman,linux,github,gitlab,aws,docker,c,cplusplus,ai,ml,neuralnetworks,json,api"/>
     <br></br>
-    <img src="https://skillicons.dev/icons?i=github,gitlab,aws"/>
   </div>
 </p>
 
