@@ -19,8 +19,9 @@ Experienced Software Engineer with over 2 years specializing in **Python** and *
 <p align="center">
   <div align="center">
     <br></br>
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb,git,postman,linux,github,gitlab,aws,docker,c,cplusplus,ai,ml,neuralnetworks,json,api"/>
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb,git,postman,linux"/>
     <br></br>
+    <img src="https://skillicons.dev/icons?i=github,gitlab,aws"/>
   </div>
 </p>
 
@@ -71,3 +72,9 @@ Experienced Software Engineer with over 2 years specializing in **Python** and *
 - **Higher Education in 12**, KV No.2, Chandigarh (Apr '17 — Apr '18)
 
 ---
+
+## 📝 Let's Connect!
+
+Feel free to reach out if you have any questions or want to collaborate on exciting projects. I'm always open to new opportunities and challenges!
+
+[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle) <!-- Replace with your actual Twitter handle -->
